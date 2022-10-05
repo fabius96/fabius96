@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=000000&height=300&section=header&text=JAEYOUNG%20KIM&fontSize=80)
+<img width="1000" alt="화면 캡처 2022-10-05 211320" src="https://user-images.githubusercontent.com/108924263/194057757-7dbfedda-7a2c-4298-b09e-47e8f8688722.png">
+
 
 <!--
 **fabius96/fabius96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
