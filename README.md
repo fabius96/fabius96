@@ -3,6 +3,7 @@
 <br>
 
 # 🛠 Tech Stack
+Techs that i've used at least once
 </div>
 <br>
 <div align=center> 
@@ -12,7 +13,6 @@
   <br> 
 
   <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=black"> 
-  <img src="https://img.shields.io/badge/kakaologin-FFCD00?style=for-the-badge&logo=kakaologin&logoColor=black"> 
   <img src="https://img.shields.io/badge/Json web tokens-000000?style=for-the-badge&logo=Json web tokens&logoColor=white"> 
   <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"> 
   <br>
