@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=444444&height=300&section=header&text=fabius&fontSize=87&fontColor=FFFFFF&fontAlign=71&fontAlignY=48&desc=Dev&descAlign=83&descAlignY=60)
 <div align=center>
-<hr>
+<br>
 
 # 🛠 Tech Stack
 </div>
