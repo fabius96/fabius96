@@ -48,13 +48,16 @@ Techs that i've used at least once
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br> 
+  <br>
+  
+  [![fabius96's github stats](https://github-readme-stats.vercel.app/api?username=fabius96)](https://github.com/fabius96/github-readme-stats)   
   
 </div>
 </div>
 <br>
 <br>
 
- [![fabius96's github stats](https://github-readme-stats.vercel.app/api?username=fabius96)](https://github.com/fabius96/github-readme-stats)   
+ 
 
 <hr>
 <!--
