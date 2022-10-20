@@ -2,17 +2,16 @@
 <div align=center>
 
 # Hi, There 👋
-## Welcome to Jae-Young's GitHub 💎
+## Welcome to my GitHub 🧑‍💻
 <br>
-I am Jae-Young Kim who is Studying data engineering in South Korea. <br>
-if you want to contact me, please leave me a message!
+I am Jae-young Kim who is studying data engineering in South Korea. <br>
+If you want to know more about me, please follow the link below👇
 <br>
 <br>
 
  [![Naver Badge](https://img.shields.io/badge/Naver%20Mail-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:ggg7152@gmail.com)](mailto:jy0511_@naver.com)
  [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://coffeedeveloper.tistory.com)](https://coffeedeveloper.tistory.com)
  
-<br>
 <br>
 
 # 🛠 Tech Stack
@@ -50,23 +49,10 @@ Techs that i've used at least once
   <br> 
   <br>
   
+  <br>
+  
   [![fabius96's github stats](https://github-readme-stats.vercel.app/api?username=fabius96)](https://github.com/fabius96/github-readme-stats)   
   
 </div>
 </div>
-
-<hr>
-<!--
-**fabius96/fabius96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
