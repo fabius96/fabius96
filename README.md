@@ -54,10 +54,6 @@ Techs that i've used at least once
   
 </div>
 </div>
-<br>
-<br>
-
- 
 
 <hr>
 <!--
