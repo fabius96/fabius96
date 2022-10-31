@@ -6,7 +6,7 @@
 <br>
 I am Jae-young Kim who is studying data engineering in South Korea. <br>
 If you want to know more about me, please follow the link below👇
-<br>
+<br> 
 <br>
 
  [![Naver Badge](https://img.shields.io/badge/Naver%20Mail-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:ggg7152@gmail.com)](mailto:jy0511_@naver.com)
