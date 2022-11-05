@@ -2,7 +2,7 @@
 <div align=center>
 
 # Hi, There 👋
-## Welcome to my GitHub 🧑‍💻
+## Welcome to my GitHub 🧑‍💻 
 <br>
 I am Jae-young Kim who is studying data engineering in South Korea. <br>
 If you want to know more about me, please follow the link below👇
