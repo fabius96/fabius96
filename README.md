@@ -1,4 +1,11 @@
-# 👋Hi there, I'm Jaeyoung Kim 
+## Hi there, I'm Jaeyoung Kim👋 
+<p>
+ <img src="https://img.shields.io/badge/Communicative-FF9900?style=flat-square">
+ <img src="https://img.shields.io/badge/Collaborative-FF9900?style=flat-square">
+ <img src="https://img.shields.io/badge/Consistent-FF9900?style=flat-square"> &nbsp;
+ <img src="https://img.shields.io/badge/Developer-F05032?style=flat-square">
+</p>
+
 ## Welcome to my GitHub 🧑‍💻  
 <br>
 I am Jae-young Kim who is studying web development in South Korea. <br>
@@ -48,8 +55,11 @@ Techs that i've used at least once
   
   <br>
   
-  [![fabius96's github stats](https://github-readme-stats.vercel.app/api?username=fabius96)](https://github.com/fabius96/github-readme-stats)   
+  
   
 </div>
 </div>
+
+ [![trophy](https://github-profile-trophy.vercel.app/?username=fabius96&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+ 
 <br>
