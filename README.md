@@ -6,6 +6,12 @@
  <img src="https://img.shields.io/badge/Developer-F05032?style=flat-square">
 </p>
 
+```
+😄 소통할 줄 아는 백엔드 개발자 김재영입니다.
+☕ 과거 식음료 서비스 산업에서의 근무하며 소통과 협력을 배웠습니다.
+💻 이제는 백엔드 개발자로서 동료들과 소통, 협력하며 더 나은 서비스 개발을 위해 노력하겠습니다.
+```
+
 ## Welcome to my GitHub 🧑‍💻  
 <br>
 I am Jae-young Kim who is studying web development in South Korea. <br>
