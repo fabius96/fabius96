@@ -52,6 +52,9 @@
   > - 게시글 상세 조회 시 매번 계산하던 평균 가격을 Spring Cache와 Scheduler를 적용하여 기존 대비 최대 57%의 속도 개선 달성(632ms → 270ms)<br>
   > - QueryDSL을 통한 동적 쿼리 메서드로 카테고리에 의한 상품 리스트 분류 조회 메서드 구현<br>
   > - Cookie를 활용하여 ‘마이 페이지 - 최근 본 상품’ 메서드 구현<br>
+
+### 📖 Certificate
+- [2022-12-02]  SQLD(SQL 개발자)  
   
 ### 🏆 Github Stats
 
