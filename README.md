@@ -1,7 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=9E856E&height=300&section=header&text=fabius&fontSize=87&fontColor=E6E6E6&fontAlign=71&fontAlignY=48&desc=Dev&descAlign=83&descAlignY=60)
-<div align=center>
-
-# Hi, There 👋
+# 👋Hi there, I'm Jaeyoung Kim 
 ## Welcome to my GitHub 🧑‍💻  
 <br>
 I am Jae-young Kim who is studying web development in South Korea. <br>
