@@ -60,6 +60,11 @@
 
  [![trophy](https://github-profile-trophy.vercel.app/?username=fabius96&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
+### 🏅 Solved.ac
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jy0511)](https://solved.ac/jy0511)
+
 ### 🤙 Contacts
 If you want to know more about me, please follow the link below👇 <br> 
 
