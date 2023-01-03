@@ -54,8 +54,10 @@
   > - QueryDSL을 통한 동적 쿼리 메서드로 카테고리에 의한 상품 리스트 분류 조회 메서드 구현<br>
   > - Cookie를 활용하여 ‘마이 페이지 - 최근 본 상품’ 메서드 구현<br>
 
-### 📖 Certificate
+### 📖 Certificate / Language
+- [2023-01-03]  OPIc IM(Intermediate Mid)
 - [2022-12-02]  SQLD(SQL 개발자)  
+- [2020-02-14]  컴퓨터활용능력 2급
   
 ### 🏆 Github Stats
 
