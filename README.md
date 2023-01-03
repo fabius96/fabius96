@@ -57,7 +57,6 @@
 ### 📖 Certificate / Language
 - [2023-01-03]  OPIc IM(Intermediate Mid)
 - [2022-12-02]  SQLD(SQL 개발자)  
-- [2020-02-14]  컴퓨터활용능력 2급
   
 ### 🏆 Github Stats
 
