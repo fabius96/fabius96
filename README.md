@@ -49,8 +49,8 @@
 - 기간 : 2022.08.26 - 10.07(6주)
 - 핵심경험
   > - 상품, 검색 관련 API 구현<br>
-  > - 검색 메서드에 Full Text Index 적용을 통해 기존 대비 평균 20% 속도 개선(1255ms → 1018ms)<br>
-  > - '상품 상세 조회 - 평균 가격 호출' 메서드에 Spring Cache와 Scheduler를 적용하여 기존 대비 최대 57%의 속도 개선 달성(632ms → 270ms)<br>
+  > - **검색 메서드에 Full Text Index 적용을 통해 <span style='background-color:#fff5b1'>기존 대비 평균 20% 속도 개선(1255ms → 1018ms)</span>**<br>
+  > - **'상품 상세 조회 - 평균 가격 호출' 메서드에 Spring Cache와 Scheduler를 적용하여 기존 대비 최대 57%의 속도 개선 달성(632ms → 270ms)**<br>
   > - QueryDSL을 통한 동적 쿼리 메서드로 카테고리에 의한 상품 리스트 분류 조회 메서드 구현<br>
   > - Cookie를 활용하여 ‘마이 페이지 - 최근 본 상품’ 메서드 구현<br>
 
