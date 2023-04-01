@@ -76,4 +76,4 @@ If you want to know more about me, please feel free to contact me through the li
  [![Naver Badge](https://img.shields.io/badge/jy0511_@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:ggg7152@gmail.com)](mailto:jy0511_@naver.com) &nbsp;
 <br>
 <br>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/fabius96%2Fgjbae1212%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=&icon_color=%23000000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/fabius96%2Fgjbae1212%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=&icon_color=%23000000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
