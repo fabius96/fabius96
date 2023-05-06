@@ -3,7 +3,7 @@
  <img src="https://img.shields.io/badge/Communicative-FF9900?style=flat-square">
  <img src="https://img.shields.io/badge/Collaborative-FF9900?style=flat-square">
  <img src="https://img.shields.io/badge/Consistently growing-FF9900?style=flat-square"> &nbsp;
- <img src="https://img.shields.io/badge/Developer-F05032?style=flat-square">
+ <img src="https://img.shields.io/badge/Developer-F05032?style=flat-square"> 
 </p>
 
 ```
