@@ -15,7 +15,7 @@
 
 ### 🛠 Tech Stack
 <p>
-  <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=Java&logoColor=white"> 
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=Java&logoColor=white"> 
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=spring&logoColor=white"> 
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Spring boot&logoColor=black"> 
   <img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=Java&logoColor=white"> 
@@ -29,8 +29,12 @@
   <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square=gradle&logoColor=white"> 
 </p>
 <p>  
+  <img src="https://img.shields.io/badge/Oracle-#80000?style=flat-square&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+  &nbsp
+  <img src="https://img.shields.io/badge/MicrosoftAzure-#0078D4?style=flat-square&logo=amazonaws&logoColor=white">
   <img src="https://img.shields.io/badge/AmazonAWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"> 
+  &nbsp
   <img src="https://img.shields.io/badge/AmazonEC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white">
   <img src="https://img.shields.io/badge/AmazonRDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white">
   <img src="https://img.shields.io/badge/AmazonS3-569A31?style=flat-square&logo=amazons3&logoColor=white"> 
