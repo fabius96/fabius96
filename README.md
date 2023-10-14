@@ -54,6 +54,14 @@
 </P>
   
 ### 💻 Project
+#### [하나원모임](https://hanaonemoim.site)
+- "갤러리형 커뮤니티 기반 모임통장 서비스"
+- 기간 : 2023.09.01 - 10.20(7주)
+- 핵심경험
+  > - 1인 프로젝트로 서비스 기획부터 설계, 개발 및 배포까지의 개발 라이프사이클을 경험<br/>
+  > - 계좌 이체 / 회비 납부 프로세스에 대한 트랜잭션 처리<br/>
+  > - 비밀번호, 주민등록번호 등 User 개인정보 데이터 저장 시 Bcrypt를 통한 DB 암호화 <br/>
+  > - 가상의 오픈뱅킹 OPENAPI 서버 생성 및 이를 통한 오픈뱅킹 관련 기능 구현<br/>
 #### [멍냥마켓](https://github.com/Hanhae99-final-3team/final-be)
 - "반려동물 용품 중고거래 서비스"
 - 기간 : 2022.08.26 - 10.07(6주)
@@ -62,16 +70,20 @@
   > - **검색 메서드에 Full Text Index 적용을 통해 기존 대비 평균 20% 속도 개선(1255ms → 1018ms)**<br>
   > - **'상품 상세 조회 - 평균 가격 호출' 메서드에 Spring Cache와 Scheduler를 적용하여 기존 대비 최대 57%의 속도 개선 달성(632ms → 270ms)**<br>
   > - QueryDSL을 통한 동적 쿼리 메서드로 카테고리에 의한 상품 리스트 분류 조회 메서드 구현<br>
-  > - Cookie를 활용하여 ‘마이 페이지 - 최근 본 상품’ 메서드 구현<br>
+  > - Cookie를 활용하여 ‘마이 페이지 - 최근 본 상품’ 메서드 구현<br/>
 
 ### 🎓 Education
  - [2023-03 ~ ] 하나금융티아이 채용연계형 교육과정
  - [2022-06 ~ 2022-10]  스파르타 코딩클럽 부트캠프 항해99 8기
 
 ### 📖 Certificate
-- [2022-12-02]  SQLD(SQL 개발자)  
+- [2023-06-14]  정보처리기사(필기)  
+- [2022-12-02]  SQLD(SQL 개발자)
+
+### 🏆 Award
+- [2023-10-13]  한국폴리텍대학 광명융합기술교육원 프로젝트 경진대회 은상 
   
-### 🏆 Github Stats
+### 🌠 Github Stats
 
  [![trophy](https://github-profile-trophy.vercel.app/?username=fabius96&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
