@@ -29,10 +29,10 @@
   <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square=gradle&logoColor=white"> 
 </p>
 <p>  
-  <img src="https://img.shields.io/badge/Oracle-#80000?style=flat-square&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Oracle-80000?style=flat-square&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
   &nbsp
-  <img src="https://img.shields.io/badge/MicrosoftAzure-#0078D4?style=flat-square&logo=amazonaws&logoColor=white">
+  <img src="https://img.shields.io/badge/MicrosoftAzure-0078D4?style=flat-square&logo=amazonaws&logoColor=white">
   <img src="https://img.shields.io/badge/AmazonAWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"> 
   &nbsp
   <img src="https://img.shields.io/badge/AmazonEC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white">
